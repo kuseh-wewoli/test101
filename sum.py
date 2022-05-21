@@ -1,1 +1,1 @@
-print('this is a test to see if git is working')
+print('This test has passed')
